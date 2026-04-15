@@ -1,4 +1,0 @@
-- Technology category generates the highest sales.
-- West region has the highest profit.
-- Top customers contribute significantly to revenue.
-- Some orders have negative profit indicating discount issues.
